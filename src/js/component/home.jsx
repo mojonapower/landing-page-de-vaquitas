@@ -8,7 +8,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = () => {
 	return (
 		<div className="container">
-			<Navbar titulo="Mi Super Navbar" />
+			<Navbar titulo="Mi Super Navbar de vaquitas" />
 			<div className="row">
 				<Card
 					img="http://www.masquesaludanimal.es//posts/asset_upload_file89331_522110.jpg"
